@@ -29,3 +29,7 @@ cliboard.
 
 This works nice with PyCharm. You can use "Apply Patch from Clipboard" to see
 diff and apply only the lines you changed/want.
+
+In the popup you get, you can check
+"Analyze and apply patch from cliboard on the fly" checkbox to get this popup
+each time you have valid patch in clipboard.
