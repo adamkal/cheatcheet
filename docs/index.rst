@@ -10,7 +10,9 @@ Welcome to Cheat Sheet's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   django/migrations
+   sections/git
+   sections/django
+
 
 
 
